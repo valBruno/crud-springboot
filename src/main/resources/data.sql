@@ -1,0 +1,26 @@
+insert into books (isbn, author, publish_year, title, pages, publisher)
+values
+(2792775, 'Suzanne Collins', 2008, 'The Hunger Games', 200, 'Publisher'),
+(4640799, 'J.K. Rowling, Mary GrandPré', 1997, 'Harry Potter and the Philosophers Stone', 200, 'Publisher'),
+(3212258, 'Stephenie Meyer', 2005, 'Twilight', 200, 'Publisher'),
+(3275794, 'Harper Lee', 1960, 'To Kill a Mockingbird', 200, 'Publisher'),
+(245494, 'F. Scott Fitzgerald', 1925, 'The Great Gatsby', 200, 'Publisher'),
+(16827462, 'John Green', 2012, 'The Fault in Our Stars', 200, 'Publisher'),
+(1540236, 'J.R.R. Tolkien', 1937, 'The Hobbit or There and Back Again', 200, 'Publisher'),
+(3036731, 'J.D. Salinger', 1951, 'The Catcher in the Rye', 200, 'Publisher'),
+(3338963, 'Dan Brown', 2000, 'Angels & Demons', 200, 'Publisher'),
+(3060926, 'Jane Austen', 1813, 'Pride and Prejudice', 200, 'Publisher'),
+(3295919, 'Khaled Hosseini', 2003, 'The Kite Runner', 200, 'Publisher'),
+(13155899, 'Veronica Roth', 2011, 'Divergent', 200, 'Publisher'),
+(153313, 'George Orwell, Erich Fromm, Celâl Üster', 1949, 'Nineteen Eighty-Four', 200, 'Publisher'),
+(2207778, 'George Orwell', 1945, 'Animal Farm: A Fairy Story', 200, 'Publisher'),
+(3532896, 'Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday', 1947, 'Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944', 200, 'Publisher'),
+(1708725, 'Stieg Larsson, Reg Keeland', 2005, 'Män som hatar kvinnor', 200, 'Publisher'),
+(6171458, 'Suzanne Collins', 2009, 'Catching Fire', 200, 'Publisher'),
+(2402163, 'J.K. Rowling, Mary GrandPré, Rufus Beck', 1999, 'Harry Potter and the Prisoner of Azkaban', 200, 'Publisher'),
+(3204327, 'J.R.R. Tolkien', 1954, 'The Fellowship of the Ring', 200, 'Publisher'),
+(8812783, 'Suzanne Collins', 2010, 'Mockingjay', 200, 'Publisher'),
+(2809203, 'J.K. Rowling, Mary GrandPré', 2003, 'Harry Potter and the Order of the Phoenix', 200, 'Publisher'),
+(1145090, 'Alice Sebold', 2002, 'The Lovely Bones', 200, 'Publisher'),
+(6231171, 'J.K. Rowling, Mary GrandPré', 1998, 'Harry Potter and the Chamber of Secrets', 200, 'Publisher')
+;
